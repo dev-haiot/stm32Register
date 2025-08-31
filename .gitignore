@@ -1,0 +1,31 @@
+# Build output
+/output/
+*.o
+*.elf
+*.hex
+*.map
+*.bin
+*.lst
+*.d
+
+# Makefile temporary / generated
+makefile.*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp / backup
+*~
+*.tmp
+*.swp
+
+# Other
+.cache/
